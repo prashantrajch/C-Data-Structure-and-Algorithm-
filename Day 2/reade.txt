@@ -1,0 +1,17 @@
+Day - 2
+
+i learn today how many type of data in c++
+
+There are three type of data 
+1>   Primitive          2>  Derived data type           3>   User-defined
+i>   Integer            i>  Function                     i>   Class
+ii>  Float             ii>  Array                       ii>   structure 
+iii> Character        iii>  Pointer                    iii>   union
+iv>  Boolean           iv>  Reference                   iv>   enum
+
+
+
+and also learn about c++ data type modifiers
+signed 
+unsingned
+short long
