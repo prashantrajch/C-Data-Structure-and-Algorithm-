@@ -66,4 +66,6 @@ int main()
         cout << "Invalid";
         break;
     }
+
+    return 0;
 }
