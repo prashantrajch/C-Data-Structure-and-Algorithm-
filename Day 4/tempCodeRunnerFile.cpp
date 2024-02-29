@@ -1,8 +1,17 @@
-nt s = 0;
-    // for (int i = 0; i <= 10; i++)
+t n;
+    // cout<<"Enter the number to check prime or not"<<endl;
+    // cin>>n;
+    // int i = 2;
+    // while (i < n)
     // {
-    //     cout << i;
-    //     s += i;
+    //     if (n%i == 0)
+    //     {
+    //         cout<<"This is not a prime number";
+    //         break;
+    //     }
+    //     i++;
     // }
-
-    // cout << "\nThe total natural number is:-  " << s;
+    // if (n == i)
+    // {
+    // cout<<"This is prime number";
+    // }
