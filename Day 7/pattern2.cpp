@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     int num;
-    cout<<"Enter the number to print a pattern"<<endl;
-    cin>>num;
+    cout << "Enter the number to print a pattern" << endl;
+    cin >> num;
     // secord patter using while loop
 
     // int i = 1;
@@ -18,27 +19,27 @@ int main(){
     //     i++;
     // }
 
-
     // secord patter using do while loop
-// int i = 1;
-//     do{
-//         int j = 1;
-//         while(j <= num){
-//             cout<<i;
-//             j = j + 1;
-//         }
-//         cout<<endl;
+    // int i = 1;
+    //     do{
+    //         int j = 1;
+    //         while(j <= num){
+    //             cout<<i;
+    //             j = j + 1;
+    //         }
+    //         cout<<endl;
 
-//         i++;
-//     }while( i <= num);
-
+    //         i++;
+    //     }while( i <= num);
 
     // secord patter using for loop
 
-    for(int i = 1; i<=num; i++){
-        for(int j=1; j <= num; j++){
-            cout<<i;
+    for (int i = 1; i <= num; i++)
+    {
+        for (int j = 1; j <= num; j++)
+        {
+            cout << i;
         }
-        cout<<endl;
+        cout << endl;
     }
 }
